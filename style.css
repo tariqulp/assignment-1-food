@@ -1,3 +1,49 @@
-body{
-    font-family: 'Poppins', sans-serif;
-}
+    body{
+        font-family: 'Poppins', sans-serif;
+        color: gray;
+        margin: 0;
+    }
+    .flexible-container{
+        display: flex;
+    }
+    div h1{
+        font-size: 50px;
+        color: rgb(88, 84, 84);
+    }
+    span{
+        color: orange;
+    }
+    .half-width{
+        width: 110%;
+        padding-left: 60px;
+        margin-bottom: 200px;
+        padding-top: 80px;
+    }
+    .half-width img{
+        width: 70%;
+        margin-left: 120px;
+    }
+    #padd{
+        padding-bottom: 40px;
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(orangered,tomato);
+        padding: 10px 30px;
+        color: white;
+        font-weight: 600;
+        border-radius: 50px;
+
+    }
+    .padding{
+        padding-right: 200px;
+        padding-bottom: 40px;
+    }
+    .about-me{
+        background-image: url(images/bg.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .about-me img{
+        width: 60.30%;
+    }
