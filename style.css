@@ -70,3 +70,34 @@
         max-height: 100%;
         max-width: 100%;
     }
+    .recipie-item h2{
+        color: black;
+        font-weight: 900;
+    }
+    .follower{
+        text-align: center;
+        margin-left: 5%;
+        margin-right: 4%;
+        width: 30%;
+    }
+    .follower h2{
+        color: black;
+        font-weight: bolder;
+        font-size: 40px;
+    }
+    .box-shadow{
+        box-shadow: 1px 1px 30px gray;
+        border-radius: 15px;
+        width: 90%;
+        height: 4%;
+        margin-bottom: 200px;
+        margin-left: 5%;
+        margin-right: 4%;
+
+    }
+    footer{
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 40px;
+        background-color: rgb(15, 15, 15);
+    }
